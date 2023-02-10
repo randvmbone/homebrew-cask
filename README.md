@@ -157,6 +157,6 @@ cask "randvmb-efi-agent"
 
 **[1.5.8]** `randvmb-maciasl-legacy`
 
-[EFI Agent(https://github.com/benbaker76/EFI-Agent/) Simple, low resource, efficient and no frills tool to mount EFI partitions
+[EFI Agent](https://github.com/benbaker76/EFI-Agent/) Simple, low resource, efficient and no frills tool to mount EFI partitions
 
 **[1.3.4]** `randvmb-efi-agent`
